@@ -128,12 +128,13 @@ poorivika.html
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-11-20 145001.png>)
-![alt text](<Screenshot 2024-11-20 145025.png>)
-![alt text](<Screenshot 2024-11-20 145044.png>)
-![alt text](<Screenshot 2024-11-20 145102.png>)
-![alt text](<Screenshot 2024-11-20 145127.png>)
-![alt text](<Screenshot 2024-11-20 145147.png>)
+![1](https://github.com/user-attachments/assets/418c6061-057d-4af7-8048-edaca6d3854c)
+![2](https://github.com/user-attachments/assets/9c2f0754-5900-43fc-b4df-23075fd2882e)
+![3](https://github.com/user-attachments/assets/e13dad48-9a00-469b-9a6b-2e91c54e95e4)
+![4](https://github.com/user-attachments/assets/7ee97b73-b50c-4b72-8548-49fae65bc10a)
+![5](https://github.com/user-attachments/assets/6e510835-61d0-48ae-82ec-9c1b54a56d91)
+![6](https://github.com/user-attachments/assets/28117a25-280e-4dd9-8034-12b3f2c34403)
+
 
 
 
